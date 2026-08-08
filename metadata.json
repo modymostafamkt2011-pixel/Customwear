@@ -1,0 +1,8 @@
+{
+  "name": "CustomWear",
+  "description": "Custom Clothing Customization Marketplace - Your Style. Your Choice. Your Wear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
